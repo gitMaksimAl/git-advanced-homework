@@ -31,7 +31,7 @@ while (count < 2000) {
     }
 
     Console.SetCursorPosition(x, y);
-    Console.WriteLine("+");
+    Console.Write("+");
     count++;
 }
 
